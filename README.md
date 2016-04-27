@@ -44,7 +44,7 @@ Then add **hubot-line-message** to your `external-scripts.json`:
 - X_LINE_CHANNELID - Your line bot's channel id
 - X_LINE_CHANNELSECRET - Your line bot's channel secret
 - X_LINE_TRUSTED_USER_WITH_ACL - Your line bot's mid
-- LINE_USERS - Comma seperated dictionary for your line users, format: "<username1>: <line_mid1>, <username2>: <line_mid2>, ..."
+- LINE_USERS - Comma seperated dictionary for your line users, format: `"<username1>: <line_mid1>, <username2>: <line_mid2>, ..."`
 
 ### Step by step to get Line mid
 
