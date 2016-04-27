@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-line-message.git"
+    "url": "git@github.com:Asoul/hubot-line-message.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-line-message/issues"
+    "url": "https://github.com/Asoul/hubot-line-message/issues"
   },
 
   "dependencies": {
